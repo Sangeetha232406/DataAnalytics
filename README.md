@@ -1,0 +1,1 @@
+This project aims to analyze and visualize crimes against women using real-world datasets. It leverages data analytics and machine learning techniques to uncover patterns, trends, and insights that can help in understanding and addressing these issues.
